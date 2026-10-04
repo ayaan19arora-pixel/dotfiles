@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ayaan19arora@gmail.com
+	name = Ayaan Arora
